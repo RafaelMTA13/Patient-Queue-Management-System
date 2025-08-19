@@ -13,19 +13,20 @@ Local Database: Uses SQLite to store patient data in a single file (database.db)
 RESTful API: A clean API built with Node.js and Express for handling patient registration, listing, and deletion.
 
 💻 How to Run the Project
-Clone the Repository: Download the project files.
-
-Install Dependencies: Open your terminal in the project folder and run:
+1. Install Dependencies
+Open your terminal in the project folder and run:
 
 Bash
 
 npm install express sqlite3 cors body-parser
-Start the Server: Run the following command in your terminal:
+2. Start the Server
+Run the following command in your terminal:
 
 Bash
 
 node server.js
-Access the Application: Open your web browser and navigate to these URLs:
+3. Access the Application
+Open your web browser and navigate to these URLs:
 
 Patient Registration: http://localhost:3000/
 
