@@ -1,3 +1,4 @@
+⚠️ PATIENT QUEUE MANAGEMENT SYSTEM - PROJECT NOT FINALIZED ⚠️
 🏥 Patient Queue Management System
 This is a simple full-stack application for managing a medical clinic's patient queue. Patients can add themselves to the queue via a web form, while medical staff can view the real-time queue and manage patients by marking them as "attended" or removing them from the list.
 
